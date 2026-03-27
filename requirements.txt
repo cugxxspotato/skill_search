@@ -1,0 +1,5 @@
+requests>=2.31.0
+openai>=1.0.0
+huggingface_hub>=0.20.0
+kaggle>=1.6.0  # 👈 新增 Kaggle 官方库
+beautifulsoup4
